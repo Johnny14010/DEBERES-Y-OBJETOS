@@ -13,7 +13,7 @@
 (c)`@Provider()` 
 
 
-**Respuesta:** (b) `@Controller()`
+**Respuesta:** (b)  `@Controller()`
 
 **3. ¿Cuál de las siguientes afirmaciones es correcta sobre el patrón de inyección de dependencias en NestJS?
 
