@@ -17,3 +17,5 @@ En resumen, esta función `twoFer` es un ejemplo simple de cómo utilizar parám
     
 
 En resumen, la función `colorCode` toma un color como entrada y devuelve la posición de ese color en la lista predefinida de colores. Por ejemplo, si le pasas "rojo", te devolverá 2, que es la posición de "rojo" en la lista de colores proporcionada.
+
+LINK DEL VIDEO EXPLICATIVO: https://youtu.be/IxmmMk4zPUE
