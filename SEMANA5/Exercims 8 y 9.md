@@ -44,3 +44,5 @@ Este código es una función en TypeScript llamada `score` que calcula una puntu
     
 
 En resumen, esta función asigna una puntuación dependiendo de qué tan lejos está el punto (x, y) del origen en el plano cartesiano. Cuanto más cerca esté el punto del origen, mayor será la puntuación asignada.
+
+LINK DEL VIDEO EXPLICATIVO: https://youtu.be/eUQBUDD_ALo
