@@ -40,3 +40,5 @@ El despliegue de una aplicación NestJS es un proceso crucial para llevar la apl
 1. Nest.js: A Progressive Node.js Framework eBook: ([https://www.amazon.com/Nest-js-Progressive-Framework-Jay-Bell-ebook/dp/B07KBY31HF](https://www.amazon.com/Nest-js-Progressive-Framework-Jay-Bell-ebook/dp/B07KBY31HF))
 
 3. . NestJS in Action: ([https://www.manning.com/liveprojectseries/api-level-integration-testing-with-nest-framework](https://www.manning.com/liveprojectseries/api-level-integration-testing-with-nest-framework))
+
+LINK DEL VIDEO EXPLICATIVO: https://youtu.be/wg0e0z_Me_Q
