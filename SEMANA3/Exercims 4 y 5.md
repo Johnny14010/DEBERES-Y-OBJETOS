@@ -14,3 +14,5 @@ En resumen, este código es útil para decodificar un código de colores de resi
 
 **Resistor Color Trio resumen del código:**
 Este código es como un traductor para entender el valor de una resistencia eléctrica a partir de los colores de sus bandas. Imagina que cada color tiene un número asignado y que al combinar esos números según las reglas, obtienes el valor de la resistencia. Además, este traductor también te dice en qué unidad está expresado ese valor (giga, mega, kilo, etc.). Es como tener a alguien que te ayuda a interpretar el código de colores en una resistencia y te dice cuánto vale en términos simples de entender.
+
+LINK DEL VIDEO EXPLICATIVO: https://youtu.be/G3lH-xlqIP0
