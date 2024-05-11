@@ -27,3 +27,5 @@ Este código es una función en que convierte una secuencia de ADN en su equival
     
 
 En resumen, la función `toRna` toma una secuencia de ADN como entrada y devuelve su equivalente ARN, aplicando las reglas de conversión estándar de ADN a ARN según la biología molecular.
+
+LINK DEL VIDEO EXPLICATIVO: https://youtu.be/EMXuSxb15JI
