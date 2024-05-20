@@ -1,4 +1,4 @@
-#### Teoría
+#### Teoría Comunicacion entre componentes
 
 La comunicación entre componentes es un concepto fundamental en el desarrollo de aplicaciones Angular. Un componente en Angular es una unidad modular de código diseñada para gestionar una vista específica o funcionalidad en la aplicación. La comunicación entre estos componentes es esencial para mantener una arquitectura clara y modular, permitiendo que cada componente pueda gestionar sus responsabilidades de forma autónoma y coordinada con otros componentes.
 
@@ -20,3 +20,4 @@ _Apress/pro-angular-9: Source Code for “Pro Angular 9” by Adam Freeman_. (20
 ‌_Existencias: Angular : :: Library Catalog_. (2017). Izt.uam.mx. http://biblioteca.izt.uam.mx/vufind/Record/OR_on1010935475
 
 ‌
+LINK DEL VIDEO EXPLICATIVO: https://youtu.be/FwysREbxbQs
