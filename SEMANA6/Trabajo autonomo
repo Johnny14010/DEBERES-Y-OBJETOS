@@ -1,1 +1,45 @@
+// jefe.component.ts
+import { Component } from '@angular/core';
 
+@Component({
+  selector: 'app-jefe',
+  template: `
+    <app-empleado 
+      *ngFor="let tarea of tareas" 
+      [tarea]="tarea" 
+      (completada)="tareaCompletada($event)">
+    </app-empleado>
+  `
+})
+export class JefeComponent {
+  tareas = ['Informe', 'Reunión', 'Análisis'];
+
+  tareaCompletada(tarea: string) {
+    console.log(`La tarea ${tarea} ha sido completada.`);
+  }
+}
+
+
+
+
+// empleado.component.ts
+import { Component, Input, Output, EventEmitter } from '@angular/core';
+
+@Component({
+  selector: 'app-empleado',
+  template: `
+    <div>
+      <p>Tarea: {{ tarea }}</p>
+      <button (click)="completarTarea()">Completar</button>
+    </div>
+  `
+})
+export class EmpleadoComponent {
+  @Input() tarea: string;
+  @Output() completada = new EventEmitter<string>();
+
+  completarTarea() {
+    console.log(`Empleado completó la tarea: ${tarea}`);
+    this.completada.emit(this.tarea);
+  }
+}
